@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\bin\Debug\AlgorithmVisualizer.exe.config
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\bin\Debug\AlgorithmVisualizer.exe
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\bin\Debug\AlgorithmVisualizer.pdb
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.Forms.MainForm.resources
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.Forms.PathfindingVisualizerForm.resources
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.Forms.SettingsForm.resources
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.Forms.SortingVisualizerForm.resources
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.Models.SettingsModel.resources
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.Properties.Resources.resources
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.exe
+C:\Users\ACER\Downloads\Algorithm-Visualizer-main\Algorithm-Visualizer-main\AlgorithmVisualizer\AlgorithmVisualizer\obj\Debug\AlgorithmVisualizer.pdb
