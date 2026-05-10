@@ -1,28 +1,22 @@
-Algorithm Visualizer – CSCI 22042
+# Algorithm Visualizer – CSCI 22042
 
-Desktop Algorithm Visualizer developed using C# and Windows Forms (.NET) for the CSCI 22042 Visual Programming assignment.
+Desktop Algorithm Visualizer developed using C# and Windows Forms (.NET).
 
-Features
-- Sorting Visualizer
-  - Quick Sort
-  - Merge Sort
-- Pathfinding Visualizer
-  - Breadth-First Search (BFS)
-- Animated visualizations
-- Adjustable speed and settings
-- Interactive grid and bar chart
-- Multi-form Windows Forms application
-
-Technologies Used
-- C#
-- Windows Forms (.NET)
+## Requirements
 - Visual Studio
+- .NET Framework / .NET Windows Forms support
 
-Project Structure
+## Setup Instructions
+1. Download or extract the project ZIP.
+2. Open the project folder.
+3. Open `AlgorithmVisualizer` using Visual Studio.
 
-AlgorithmVisualizer/
-- Forms/
-- Algorithms/
-- README.md
-- AlgorithmVisualizer.sln
+## Run Instructions
+1. Build the solution.
+2. Press `F5` or click `Start` in Visual Studio to run the application.
 
+## Features
+- Sorting Visualizer
+- Pathfinding Visualizer
+- Animated algorithm execution
+- Settings configuration
